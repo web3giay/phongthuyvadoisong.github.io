@@ -1,0 +1,13 @@
+﻿#SubNewsHot{ background: url(bg.png.ashx) repeat-x top center #fff;padding-top: 10px}
+#SubNewsHot .TtlTab{ color: #8d0301;font: bold 14px/53px arial;text-transform: uppercase;margin-left: 15px;float: left;display: inline-block}
+#SubNewsHot .Content{margin-left: 15px;}
+#SubNewsHot .ColImg{ float: left;width: 168px; }
+#SubNewsHot .SImg{ width: 168px;height: 105px}
+#SubNewsHot .ttit{ font: bold 12px/20px arial;color: #333;width: 168px;;display: block}
+#SubNewsHot li.subNew{ height: 165px !important;width: 168px;margin-right: 27px}
+
+#SubNewsHot .btn{ width: 34px;float: right;margin:15px 15px 0 0}
+#SubNewsHot .prevNH{ background: url(prev.png.ashx) no-repeat center;width: 10px;height: 17px;float: left;margin: 5px 2px; cursor: pointer}
+#SubNewsHot .prevNH:hover{background: url(prevhv.png.ashx) no-repeat center}
+#SubNewsHot .nextNH{background: url(next.png.ashx) no-repeat center;width: 10px;height: 17px;float: right;margin: 5px 2px; cursor: pointer}
+#SubNewsHot .nextNH:hover{background: url(nexthv.png.ashx) no-repeat center;}

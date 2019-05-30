@@ -1,0 +1,6 @@
+﻿#BoxSearch{ float: right;margin-right: 7px;display: block; background: url(BgBoxSearch.png.ashx) no-repeat;width: 175px;height: 25px;position: relative;margin-top: 6px}
+#BoxSearch .BgSearchBox{}
+#BoxSearch .mtb{display: block;position: absolute; }
+#BoxSearch .tb{width: 130px;height: 23px;background-color: transparent;border: 0;font: normal 12px Arial;color: #969696;padding-left: 10px}
+#BoxSearch .btok{display: block;width: 30px;height: 25px;text-decoration: none;position: absolute;right: 0px;top: 0px}
+.dn{display: none}

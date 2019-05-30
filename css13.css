@@ -1,0 +1,55 @@
+﻿#ProC{}
+#ProC .i1Tab{ background: url(i1.jpg.ashx) no-repeat;width: 37px;height: 37px;float: left}
+#ProC .i2Tab{ background: url(i2.jpg.ashx) repeat-x;width: 685px;height:37px;float: left}
+#ProC .i2Tab a.LinkRoad{ font: bold 12px Tahoma;color: #fff;display: block;float: left;text-decoration: none;text-transform: uppercase;line-height: 37px}
+#ProC .i2Tab .SpaceRoad{ font: normal 11px Tahoma;color: #fff;float: left;padding: 0 10px;line-height: 37px}
+
+#ProC h1{ font: bold 16px Tahoma;color: #7B0302;margin: 0;padding: 0}
+#ProC .MesCurrentCate {
+    color: #444444;
+    display: block;
+    font:normal 12px Arial;
+    padding-top: 15px;
+}
+
+#ProC .pdGroup{margin-bottom: 15px}
+#ProC .TtlGroup{ font: bold 11px Tahoma;color: #fff;text-decoration: none;display: block;line-height: 37px;padding-left: 5px}
+#ProC .SImg{ width: 130px;height: 123px;border: 0}
+#ProC .ColItem{ float: left;width: 180px;margin-top: 15px}
+#ProC .ColItem h2{padding: 0;margin: 0;font-size: 12px}
+#ProC a.TtlItem{ font: bold 12px Tahoma;color: #484848;display: block;padding: 5px 5px 8px 5px;height: 40px;overflow: hidden}
+#ProC a.TtlItem:hover{color: #444}
+#ProC .PriceItem{ font: normal 11px Tahoma;color: #484848;padding-bottom: 3px}
+#ProC .PriceItem span{ color: #ff0000;font-weight: bold}
+#ProC a.bct{ background: url(bct.png.ashx) repeat-x;width: 66px;height: 18px;text-decoration: none;display: block;margin-top: 8px}
+#ProC .pdSPage{padding-top: 30px}
+
+a.hientai{padding:3px 8px; line-height:25px; margin: 0 0 0 5px; font-weight:normal; text-decoration:none; background:#ae0603; border:1px solid #ae0603; color:#fff;}
+a.trangkhac{padding:3px 8px; line-height:25px; margin: 0 0 0 5px; font-weight:normal; text-decoration:none; background:#fff; border:1px solid #b1b1b1; color:#686868;}
+
+#ProC .subcate{ margin-bottom: 23px;border-bottom: 1px dashed #cccccc;padding-bottom: 10px;overflow: hidden}
+#ProC .subcate .item { width: 218px;padding-left: 12px;background: url(hoa.png.ashx) no-repeat left top 7px;font: 12px/24px arial;display: block;float: left;color: #333333;margin-right: 10px}
+#ProC .subcate .item:hover{ color: #8a0401;font-weight: bold}
+
+.countSearch{ color: #333;font: 12px arial}
+.countSearch span{ font: bold 14px arial;color: #7B0302}
+
+#ProC .iconDown{ background: url(IconDown.png.ashx) no-repeat left center;display: inline-block;padding-left: 20px;height: 16px}
+#ProC .con{display: inline-block}
+
+#productFilter{ background: #f5e09e;height: 29px;padding: 0px 15px;margin-top: 10px}
+#productFilter .Title{ font: bold 12px/29px Tahoma;text-transform: uppercase;color: #7b0302;float: left}
+#productFilter .ddlFT{ position: relative;margin-left: 30px;float: left}
+#productFilter .name{ font: 12px/29px Tahoma;color: #333;padding: 0px 20px 0px 10px;background: url(ar.png) no-repeat center right 10px }
+#productFilter .listFt{ position: absolute;top: 29px;left: 0;background: #f7f7d1;padding-left: 10px;width: 220px;display: none}
+#productFilter .itemFt{ background: url(ar2.png) no-repeat left center;font: 12px/29px Tahoma;display: block;padding-left: 10px;width: 200px;color: #333}
+#productFilter .itemFt:hover{color: #7b0302}
+/*#productFilter .ddlFT:hover .listFt{display: block}*/
+
+#productFilter .ltPrice{width: 420px}
+#productFilter .ltPrice .itemFt{ float: left}
+
+#filterSeleted{margin-top: 10px}
+#filterSeleted .Title{ font: bold 12px/29px Tahoma;text-transform: uppercase;color: #7b0302;float: left}
+#filterSeleted .isSelect{ display: inline-block;background:url(remove.png) no-repeat right 10px center #f7f7d1;font: 12px/29px Tahoma;padding: 0px 20px 0px 10px;margin-left: 10px;cursor: pointer;border-radius: 3px;color: #333}
+#filterSeleted .isSelect:hover{background:url(remove.png) no-repeat right 10px center #f5e09e }

@@ -1,0 +1,6 @@
+﻿
+#CommonCountProduct{position: absolute;z-index: 1;bottom: 10px;right: 0px;}
+
+#CommonCountProduct a.btShoppingCart{ color: #fff;font: 12px arial }
+
+#CommonCountProduct .btShoppingCart:hover{color:#fec62b}

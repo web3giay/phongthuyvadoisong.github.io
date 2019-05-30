@@ -1,0 +1,7 @@
+﻿ 
+#subNewsHotDetails{background: #f7f7d1}
+#subNewsHotDetails .TxtItemOther{ background: url(bgtitle.png.ashx) no-repeat;height: 29px;font: bold 12px/30px arial;text-transform: uppercase;padding-left: 40px;color: #fff;margin-bottom: 18px}
+#subNewsHotDetails ul{ margin: 0;padding: 0;list-style-type: none}
+#subNewsHotDetails ul li{padding-bottom: 10px}
+#subNewsHotDetails ul li a{ background: url(dot.gif.ashx) no-repeat left 10px top 8px;color: #333;padding-left: 20px;display: block;font: 12px/22px arial;margin-right: 5px}
+#subNewsHotDetails ul li a:hover{color: #7f0502}

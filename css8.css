@@ -1,0 +1,25 @@
+﻿.fl{float: left}
+.fr{float: right}
+
+#SubNewHomepage { background: #fff;overflow: hidden}
+#SubNewHomepage .Group{ width: 464px;float: left;background: #fff;margin-right: 15px}
+#SubNewHomepage .pdGroup{ background: #f6e1a0;height: 30px;margin-bottom: 10px}
+#SubNewHomepage .TitleCate{ color: #530200;font: bold 12px/30px arial;padding-left: 10px;display: inline-block}
+#SubNewHomepage .TitleCate1{ color: #530200;font:   12px/30px arial;     }
+#SubNewHomepage .ptContain{ width: 290px;float: left;padding-left: 10px}
+#SubNewHomepage .TtlItem{ color: #530200;font: bold 12px/18px arial;display: block;margin-right: 10px;margin-bottom: 5px}
+#SubNewHomepage .ColImg{ float: left;width: 109px;margin-right: 10px}
+#SubNewHomepage .SImg{ width: 109px;height: 68px}
+#SubNewHomepage .DescItem{ color: #333;font:   12px/18px arial;margin-right: 10px}
+#SubNewHomepage .orther{ width: 160px;float: left}
+#SubNewHomepage .BgListItem{ background: url(dot.jpg.ashx) no-repeat top 7px left;padding-left: 8px}
+#SubNewHomepage .TtlItemOther{color: #333;font:   12px/18px arial }
+#SubNewHomepage .TtlItemOther:hover{color: #b20e0c}
+#SubNewHomepage ul{ margin: 0px;padding: 0px;list-style-type: none}
+
+#SubNewHomepage .btn{ float: right;margin-top: 5px;margin-right: 0px }
+#SubNewHomepage .btnPrev{ background: url(pre.png.ashx) no-repeat center;width: 8px;height: 13px;float: left;margin: 5px 2px;opacity: 0.5;cursor: pointer}
+#SubNewHomepage .btnPrev:hover{opacity: 1}
+#SubNewHomepage .btnNext{background: url(next.png.ashx) no-repeat center;width: 8px;height: 13px;float: right;margin: 5px 2px;;opacity: 0.5;cursor: pointer}
+#SubNewHomepage .btnNext:hover{opacity: 1}
+#SubNewHomepage .subCate{margin-right: 10px}

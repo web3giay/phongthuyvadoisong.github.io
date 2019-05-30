@@ -1,0 +1,10 @@
+﻿#subProductHot{background: #f7f7d1}
+#subProductHot .TxtGroup{ background: url(bgtitle.png.ashx) no-repeat;height: 29px;font: bold 12px/30px arial;text-transform: uppercase;padding-left: 40px;color: #fff;margin-bottom: 18px}
+#subProductHot .ColItem{margin-bottom: 20px}
+#subProductHot .SImg{ width: 130px;height: 123px;border: 0}
+#subProductHot .ColItem h2{padding: 0;margin: 0;font-size: 12px}
+#subProductHot a.TtlItem{ font: bold 12px Tahoma;color: #484848;display: block;padding: 5px 5px 8px 5px;/*height: 40px*/;overflow: hidden;text-align: center}
+#subProductHot a.TtlItem:hover{color: #444}
+#subProductHot .PriceItem{ font: normal 11px Tahoma;color: #484848;padding-bottom: 3px}
+#subProductHot .PriceItem span{ color: #ff0000;font-weight: bold}
+#subProductHot a.bct{ background: url(bct.png.ashx) repeat-x;width: 66px;height: 18px;text-decoration: none;display: block;margin-top: 8px}

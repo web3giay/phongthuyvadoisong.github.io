@@ -1,0 +1,11 @@
+﻿
+#divAdvLeft img{ max-width: 155px;max-height:650px}
+#divAdvLeft .fixed{position: fixed;width: 155px;left: 50%;margin-left: -650px;top: 173px;z-index: 999}
+/*#divAdvLeft .absolute{position: absolute;width: 100px;left: 50%;margin-left: -620px;top: 0;z-index: 999}
+#divAdvLeft .absolute1{position: absolute;width: 100px;left: 50%;margin-left: -620px;top: 844px;z-index: 999}*/
+
+
+#divAdvRight img{ max-width: 155px;max-height:650px}
+#divAdvRight .fixed{ position: fixed;width: 155px;right: 50%;margin-right: -650px;top: 173px;z-index: 999}
+/*#divAdvRight .absolute{ position: absolute;width: 100px;right: 50%;margin-right: -620px;top: 0;z-index: 999}
+#divAdvRight .absolute1{ position: absolute;width: 100px;right: 50%;margin-right: -620px;top: 844px;z-index: 999}*/
