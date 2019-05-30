@@ -13,18 +13,18 @@
 .qcRight.active {right: 0;}
 .qcRight .khungAnh:before {padding-bottom: 100%;}
 .qcRight .content {position: relative;}
-.qcRight .btnClose {background: url(/Css/Pic/close.png) no-repeat scroll right 0 transparent; position: absolute; right: 0; top: -12px; z-index: 100; width: 26px; height: 12px;}
+.qcRight .btnClose {background: url(close.png) no-repeat scroll right 0 transparent; position: absolute; right: 0; top: -12px; z-index: 100; width: 26px; height: 12px;}
 
 .qcLeft {position: fixed; left: -100%; bottom: 0; z-index: 99999999; width: 320px; transition: 1.5s ease-in-out; -webkit-transition: 1.5s ease-in-out;}
 .qcLeft.active {left: 0;}
 .qcLeft .khungAnh:before {padding-bottom: 100%;}
 .qcLeft .content {position: relative;}
-.qcLeft .btnClose {background: url(/Css/Pic/close.png) no-repeat scroll right 0 transparent; position: absolute; right: 0; top: -12px; z-index: 100; width: 26px; height: 12px;}
+.qcLeft .btnClose {background: url(close.png) no-repeat scroll right 0 transparent; position: absolute; right: 0; top: -12px; z-index: 100; width: 26px; height: 12px;}
 
 .qcCenter {position: fixed; left: 50%; top: 50%; transform: translate(-50%, -50%); -webkit-transform: translate(-50%, -50%); z-index: 999999999; width: 640px; transition: 1.5s ease-in-out; -webkit-transition: 1.5s ease-in-out; opacity: 0; pointer-events: none;}
 .qcCenter.active {opacity: 1; pointer-events: auto;}
 /*.qcCenter .khungAnh:before {padding-bottom: 100%;}*/
 .qcCenter .content {position: relative;}
 .qcCenter .content img {width: 100%;}
-.qcCenter .btnClose {background: url(/Css/Pic/close.png) no-repeat scroll right 0 transparent; position: absolute; right: 0; top: -12px; z-index: 100; width: 26px; height: 12px;}
+.qcCenter .btnClose {background: url(close.png) no-repeat scroll right 0 transparent; position: absolute; right: 0; top: -12px; z-index: 100; width: 26px; height: 12px;}
  
