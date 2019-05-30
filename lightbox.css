@@ -7,14 +7,14 @@
 	line-height: 0;
 }
 #lightbox a{text-decoration:none}
-a#loadingLink{display:inline-block;width:32px;height:32px;background:url(ajax-loader.gif.ashx) no-repeat;-moz-opacity: 0.6;opacity:.60; filter: alpha(opacity=60)}
+a#loadingLink{display:inline-block;width:32px;height:32px;background:url(ajax-loader.gif) no-repeat;-moz-opacity: 0.6;opacity:.60; filter: alpha(opacity=60)}
 
 
 #lightbox a img{ border: none; }
 
 #outerImageContainer{/*Nền của ảnh*/
 	position: relative;
-	background:url(bgSlideRepeat.png.ashx) repeat;
+	background:url(bgSlideRepeat.png) repeat;
 	width: 250px;
 	height: 250px;
 	margin: 0 auto;
@@ -49,12 +49,12 @@ a#loadingLink{display:inline-block;width:32px;height:32px;background:url(ajax-lo
 #prevLink, #nextLink{/*Các nút next,preview ở 2 bên ảnh*/
 	width: 40%;
 	height: 100%;
-	background: transparent url(blank.gif.ashx) no-repeat; /* Trick IE into showing hover */
+	background: transparent url(blank.gif) no-repeat; /* Trick IE into showing hover */
 	display: block;
 	-moz-opacity: 0.6;opacity:.60; filter: alpha(opacity=60)
 	}
-#prevLink {left: 0; float: left;margin-left:22px;background: url(prev2.png.ashx) left 52% no-repeat;_background: url(prev2.gif.ashx) left 52% no-repeat;}
-#nextLink {right: 0; float: right;margin-right:22px;background: url(next2.png.ashx) right 52% no-repeat;_background: url(next2.gif.ashx) right 52% no-repeat}
+#prevLink {left: 0; float: left;margin-left:22px;background: url(prev2.png) left 52% no-repeat;_background: url(prev2.gif) left 52% no-repeat;}
+#nextLink {right: 0; float: right;margin-right:22px;background: url(next2.png) right 52% no-repeat;_background: url(next2.gif) right 52% no-repeat}
 #prevLink:hover, #prevLink:visited:hover,#nextLink:hover, #nextLink:visited:hover {-moz-opacity: 1.0; opacity:1.00; filter: alpha(opacity=100)}
 
 /*** START : next / previous text links ***/
@@ -67,12 +67,12 @@ height:13px;position:relative;top:4px;_top:0;
 }
 #nextLinkText:hover, #prevLinkText:hover,#firstLinkText:hover,#lastLinkText:hover,#playLinkText:hover,#pauseLinkText:hover{-moz-opacity: 1.0; opacity:1.00; filter: alpha(opacity=100)}
 
-#firstLinkText{background:url(first.png.ashx) no-repeat center;_background:url(first.gif.ashx) no-repeat center;border-right:solid 1px #685e55;display:none !important}
-#prevLinkText{background:url(prev.png.ashx) no-repeat center;_background:url(prev.gif.ashx) no-repeat center;border-left:solid 1px #2d221e;border-right:solid 1px #685e55}
-#playLinkText{background:url(play.png.ashx) no-repeat center;_background:url(play.gif.ashx) no-repeat center;border-left:solid 1px #2d221e;border-right:solid 1px #685e55}
-#pauseLinkText{background:url(pause.png.ashx) no-repeat center;_background:url(pause.gif.ashx) no-repeat center;border-left:solid 1px #2d221e;border-right:solid 1px #685e55}
-#nextLinkText{background:url(next.png.ashx) no-repeat center;_background:url(next.gif.ashx) no-repeat center;border-left:solid 1px #2d221e;border-right:solid 1px #685e55}
-#lastLinkText{background:url(last.png.ashx) no-repeat center;_background:url(last.gif.ashx) no-repeat center;border-left:solid 1px #2d221e;display:none !important}
+#firstLinkText{background:url(first.png) no-repeat center;_background:url(first.gif) no-repeat center;border-right:solid 1px #685e55;display:none !important}
+#prevLinkText{background:url(prev.png) no-repeat center;_background:url(prev.gif) no-repeat center;border-left:solid 1px #2d221e;border-right:solid 1px #685e55}
+#playLinkText{background:url(play.png) no-repeat center;_background:url(play.gif) no-repeat center;border-left:solid 1px #2d221e;border-right:solid 1px #685e55}
+#pauseLinkText{background:url(pause.png) no-repeat center;_background:url(pause.gif) no-repeat center;border-left:solid 1px #2d221e;border-right:solid 1px #685e55}
+#nextLinkText{background:url(next.png) no-repeat center;_background:url(next.gif) no-repeat center;border-left:solid 1px #2d221e;border-right:solid 1px #685e55}
+#lastLinkText{background:url(last.png) no-repeat center;_background:url(last.gif) no-repeat center;border-left:solid 1px #2d221e;display:none !important}
 
 
 /*#nextLinkText{
@@ -97,13 +97,13 @@ padding-right: 20px;
 	}
 
 #imageData #imageDetails{ width: 30%; float: left; text-align: left;padding-left:10px}	
-#imageData #navControls{ width: 110px;margin:auto;text-align: center;background:url(bgToolRepeat.png.ashx);border-radius:0 0 5px 5px;height:25px}
+#imageData #navControls{ width: 110px;margin:auto;text-align: center;background:url(bgToolRepeat.png);border-radius:0 0 5px 5px;height:25px}
 #imageData #bottomNav{ width: 35%; float: right; text-align: right }
 
 #imageData #numberDisplay{margin-left:0;padding-left:10px;padding-right:10px;background:url(bgToolRepeat.png.ashx);display:inline-block;border-radius:0 0 5px 0}
-#imageData #caption{background:url(bgToolRepeat.png.ashx);display:inline-block;padding-right:10px;border-radius:0 0 5px 0}
-#imageData #bottomNavClose{ width: 66px;height:25px;text-align:center;display:inline-block; margin-right:10px;background:url(bgToolRepeat.png.ashx);line-height:25px;border-radius:0 0 0 5px}
-#imageData #bottomNavClose span{background:url(close.png.ashx) no-repeat;_background:url(close.gif.ashx) no-repeat;width:16px;height:16px;display:inline-block;position:relative;top:4px}
+#imageData #caption{background:url(bgToolRepeat.png);display:inline-block;padding-right:10px;border-radius:0 0 5px 0}
+#imageData #bottomNavClose{ width: 66px;height:25px;text-align:center;display:inline-block; margin-right:10px;background:url(bgToolRepeat.png);line-height:25px;border-radius:0 0 0 5px}
+#imageData #bottomNavClose span{background:url(close.png) no-repeat;_background:url(close.gif) no-repeat;width:16px;height:16px;display:inline-block;position:relative;top:4px}
 
 
 #imageData #helpDisplay {clear: left; float: left; display: block; }
