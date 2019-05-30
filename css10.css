@@ -14,13 +14,13 @@
 #ci .del{width:86px}
 #ci th{text-align:center;color:#333;line-height:33px;height:32px;border: none;font-weight: normal;}
 #ci td{text-align:center;height:88px;border-bottom:solid thin #e6e6e6}
-#ci tr.head{border:none;background: url(tbbg.png.ashx);}
+#ci tr.head{border:none;background: url(tbbg.png);}
 #ci tr{color:#333}
 #ci .bg {background:#fff}
-#ci .paycount {font:bold 16px/48px Arial;color:#775d42;background:url(sumbg.png.ashx) repeat-x;text-align: right;width: 706px}
+#ci .paycount {font:bold 16px/48px Arial;color:#775d42;background:url(sumbg.png) repeat-x;text-align: right;width: 706px}
 #ci .paycount span {margin-left:7px;color:#fe0000}
 #ci .img {width:87px;height:65px;border:solid thin #ececec;display:inline-block}
-#ci a.del{width:18px;height:18px;display:inline-block;background:url(btdel.png.ashx) no-repeat bottom}
+#ci a.del{width:18px;height:18px;display:inline-block;background:url(btdel.png) no-repeat bottom}
 #ci a.del:hover{background-position:top}
 #ci #tbSoLuong {width:50px}
 #ci .text{line-height:40px;color: #ff9900;font: bold 14px Arial;}
@@ -32,8 +32,8 @@
 #ci .row span {float:left;width:84px;margin-left:0px;color:#535353;font-weight:bold}
 #ci .ctrltxt {float:left;width:290px;padding-left:5px;background:#fff;border:solid thin #d6d6d6;line-height:24px;height:22px;color:#535353}
 #ci .ctrltxt:focus {background:#ffe47f}
-#ci .btn {margin-right:10px;background:url(btn.png.ashx) repeat-x;padding:0px 17px;color:#fff;height:29px;line-height:29px;font-weight:bold;cursor:pointer;display: inline-block;text-transform: uppercase}
-#ci .btn:hover {background:url(btn-hv.png.ashx) repeat-x}
+#ci .btn {margin-right:10px;background:url(btn.png) repeat-x;padding:0px 17px;color:#fff;height:29px;line-height:29px;font-weight:bold;cursor:pointer;display: inline-block;text-transform: uppercase}
+#ci .btn:hover {background:url(btn-hv.png) repeat-x}
 
 #ci .txt1{ font: 12px/20px arial;color: #333}
 
