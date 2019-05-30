@@ -100,7 +100,7 @@ padding-right: 20px;
 #imageData #navControls{ width: 110px;margin:auto;text-align: center;background:url(bgToolRepeat.png);border-radius:0 0 5px 5px;height:25px}
 #imageData #bottomNav{ width: 35%; float: right; text-align: right }
 
-#imageData #numberDisplay{margin-left:0;padding-left:10px;padding-right:10px;background:url(bgToolRepeat.png.ashx);display:inline-block;border-radius:0 0 5px 0}
+#imageData #numberDisplay{margin-left:0;padding-left:10px;padding-right:10px;background:url(bgToolRepeat.png);display:inline-block;border-radius:0 0 5px 0}
 #imageData #caption{background:url(bgToolRepeat.png);display:inline-block;padding-right:10px;border-radius:0 0 5px 0}
 #imageData #bottomNavClose{ width: 66px;height:25px;text-align:center;display:inline-block; margin-right:10px;background:url(bgToolRepeat.png);line-height:25px;border-radius:0 0 0 5px}
 #imageData #bottomNavClose span{background:url(close.png) no-repeat;_background:url(close.gif) no-repeat;width:16px;height:16px;display:inline-block;position:relative;top:4px}
