@@ -1,3 +1,3 @@
 ﻿#AdvLink{ text-align: center;width: 100%}
-#AdvLink a{ background: url(linkbg.png.ashx) repeat-x top center;display:inline-block;padding:5px 10px;margin: 0px 5px;border-radius: 3px; font: bold 12px arial;color: #fff;text-transform: uppercase;margin-bottom: 10px}
-#AdvLink a:hover{background:url(linkbghv.png.ashx) repeat-x top center}
+#AdvLink a{ background: url(linkbg.png) repeat-x top center;display:inline-block;padding:5px 10px;margin: 0px 5px;border-radius: 3px; font: bold 12px arial;color: #fff;text-transform: uppercase;margin-bottom: 10px}
+#AdvLink a:hover{background:url(linkbghv.png) repeat-x top center}
