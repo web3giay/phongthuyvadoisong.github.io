@@ -18,8 +18,8 @@
 #SubNewHomepage ul{ margin: 0px;padding: 0px;list-style-type: none}
 
 #SubNewHomepage .btn{ float: right;margin-top: 5px;margin-right: 0px }
-#SubNewHomepage .btnPrev{ background: url(prev.png) no-repeat center;width: 8px;height: 13px;float: left;margin: 5px 2px;opacity: 0.5;cursor: pointer}
+#SubNewHomepage .btnPrev{ background: url(prevb.png) no-repeat center;width: 8px;height: 13px;float: left;margin: 5px 2px;opacity: 0.5;cursor: pointer}
 #SubNewHomepage .btnPrev:hover{opacity: 1}
-#SubNewHomepage .btnNext{background: url(next.png) no-repeat center;width: 8px;height: 13px;float: right;margin: 5px 2px;;opacity: 0.5;cursor: pointer}
+#SubNewHomepage .btnNext{background: url(nextb.png) no-repeat center;width: 8px;height: 13px;float: right;margin: 5px 2px;;opacity: 0.5;cursor: pointer}
 #SubNewHomepage .btnNext:hover{opacity: 1}
 #SubNewHomepage .subCate{margin-right: 10px}
