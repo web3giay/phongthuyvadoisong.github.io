@@ -1,6 +1,6 @@
 ﻿#ProC{}
-#ProC .i1Tab{ background: url(i1.jpg.ashx) no-repeat;width: 37px;height: 37px;float: left}
-#ProC .i2Tab{ background: url(i2.jpg.ashx) repeat-x;width: 685px;height:37px;float: left}
+#ProC .i1Tab{ background: url(i1.jpg) no-repeat;width: 37px;height: 37px;float: left}
+#ProC .i2Tab{ background: url(i2.jpg) repeat-x;width: 685px;height:37px;float: left}
 #ProC .i2Tab a.LinkRoad{ font: bold 12px Tahoma;color: #fff;display: block;float: left;text-decoration: none;text-transform: uppercase;line-height: 37px}
 #ProC .i2Tab .SpaceRoad{ font: normal 11px Tahoma;color: #fff;float: left;padding: 0 10px;line-height: 37px}
 
@@ -21,7 +21,7 @@
 #ProC a.TtlItem:hover{color: #444}
 #ProC .PriceItem{ font: normal 11px Tahoma;color: #484848;padding-bottom: 3px}
 #ProC .PriceItem span{ color: #ff0000;font-weight: bold}
-#ProC a.bct{ background: url(bct.png.ashx) repeat-x;width: 66px;height: 18px;text-decoration: none;display: block;margin-top: 8px}
+#ProC a.bct{ background: url(bct.png) repeat-x;width: 66px;height: 18px;text-decoration: none;display: block;margin-top: 8px}
 #ProC .pdSPage{padding-top: 30px}
 
 a.hientai{padding:3px 8px; line-height:25px; margin: 0 0 0 5px; font-weight:normal; text-decoration:none; background:#ae0603; border:1px solid #ae0603; color:#fff;}
@@ -34,7 +34,7 @@ a.trangkhac{padding:3px 8px; line-height:25px; margin: 0 0 0 5px; font-weight:no
 .countSearch{ color: #333;font: 12px arial}
 .countSearch span{ font: bold 14px arial;color: #7B0302}
 
-#ProC .iconDown{ background: url(IconDown.png.ashx) no-repeat left center;display: inline-block;padding-left: 20px;height: 16px}
+#ProC .iconDown{ background: url(IconDown.png) no-repeat left center;display: inline-block;padding-left: 20px;height: 16px}
 #ProC .con{display: inline-block}
 
 #productFilter{ background: #f5e09e;height: 29px;padding: 0px 15px;margin-top: 10px}
