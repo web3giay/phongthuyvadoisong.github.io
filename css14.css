@@ -1,6 +1,6 @@
 ﻿#ProD{ font: normal 12px Tahoma;padding-bottom: 20px}
-#ProD .i1Tab{ background: url(i1.jpg.ashx) no-repeat;width: 37px;height: 37px;float: left}
-#ProD .i2Tab{ background: url(i2.jpg.ashx) repeat-x;width: 685px;height:37px;float: left}
+#ProD .i1Tab{ background: url(i1.jpg) no-repeat;width: 37px;height: 37px;float: left}
+#ProD .i2Tab{ background: url(i2.jpg) repeat-x;width: 685px;height:37px;float: left}
 #ProD .i2Tab a.LinkRoad{ font: bold 12px Tahoma;color: #fff;display: block;float: left;text-decoration: none;text-transform: uppercase;line-height: 37px}
 #ProD .i2Tab .SpaceRoad{ font: normal 11px Tahoma;color: #fff;float: left;padding: 0 10px;line-height: 37px}
 #ProD .pdGroup{margin-bottom: 15px}
@@ -30,7 +30,7 @@
 #ProD .oProD a.TtlItem:hover{color: #444}
 #ProD .oProD .PriceItem{ font: normal 11px Tahoma;color: #484848;padding-bottom: 3px}
 #ProD .oProD .PriceItem span{ color: #ff0000;font-weight: bold}
-#ProD .oProD a.bct{ background: url(bct.png.ashx) repeat-x;width: 66px;height: 18px;text-decoration: none;display: block;margin-top: 8px}
+#ProD .oProD a.bct{ background: url(bct.png) repeat-x;width: 66px;height: 18px;text-decoration: none;display: block;margin-top: 8px}
 
 
 #ProD .TagProduct{display: block;text-align: left;margin: 0;padding: 0}
@@ -40,7 +40,7 @@
 
 #ProD ul{ padding: 0;margin: 0;list-style: none}
 #ProD .TxtItemOther{ font: bold 12px Tahoma;color: #000;padding-bottom: 10px;padding-left: 15px}
-#ProD .BgListItem{ background: url(listItem.jpg.ashx) 15px 6px no-repeat;margin-bottom: 8px}
+#ProD .BgListItem{ background: url(listItem.jpg) 15px 6px no-repeat;margin-bottom: 8px}
 #ProD a.TtlItemOther{ font: normal 12px Tahoma;color: #000000;display: block;text-align: justify;padding-left: 30px}
 #ProD a.TtlItemOther:hover{color: #d0d0d0}
 
@@ -52,22 +52,22 @@
 #ProD #ProHot a.TtlItem:hover{color: #444}
 #ProD #ProHot .PriceItem{ font: normal 11px Tahoma;color: #484848;padding-bottom: 3px}
 #ProD #ProHot .PriceItem span{ color: #ff0000;font-weight: bold}
-#ProD #ProHot a.bct{ background: url(bct.png.ashx) repeat-x;width: 66px;height: 18px;text-decoration: none;display: block;margin-top: 8px}
+#ProD #ProHot a.bct{ background: url(bct.png) repeat-x;width: 66px;height: 18px;text-decoration: none;display: block;margin-top: 8px}
 
-#ProD a.btnSupportOrder{background:url(btnSupportOrder.png.ashx) no-repeat; height:32px;width: 261px;display: block;margin-top: 5px}
-#ProD a.btnSupportOrder:hover{background:url(btnSupportOrderHover.png.ashx) no-repeat; height:32px;width:261px;display: block;margin-top: 5px}
+#ProD a.btnSupportOrder{background:url(btnSupportOrder.png) no-repeat; height:32px;width: 261px;display: block;margin-top: 5px}
+#ProD a.btnSupportOrder:hover{background:url(btnSupportOrderHover.png) no-repeat; height:32px;width:261px;display: block;margin-top: 5px}
 
 #ProD .contentKm{ position: relative;padding: 11px;width: 327px;height: 83px;border: 1px solid #cccccc;}
-#ProD .contentKm .mt{ position: absolute;background: url(mt.jpg.ashx) no-repeat center;width: 20px;height: 16px;position: absolute;top: -16px;left: 54px}
+#ProD .contentKm .mt{ position: absolute;background: url(mt.jpg) no-repeat center;width: 20px;height: 16px;position: absolute;top: -16px;left: 54px}
 #ProD .box{ width: 348px;min-height: 121px;border: 1px solid #cccccc;float: left;}
 #ProD .title{ padding-left: 35px;color: #8a0401;font: bold 12px/32px arial ;border-bottom:  1px dashed #cccccc}
-#ProD .adr{ background: url(adr.png.ashx) no-repeat left 16px center;}
-#ProD .sp{ background: url(sp.png.ashx) no-repeat left 16px center;}
+#ProD .adr{ background: url(adr.png) no-repeat left 16px center;}
+#ProD .sp{ background: url(sp.png) no-repeat left 16px center;}
 #ProD .cntBox{ margin: 10px 15px;font-size: 12px;line-height: 18px}
 .mr20{margin-right: 20px}
 
 #ProD .subcate{ margin-bottom: 23px;border-bottom: 1px dashed #cccccc;padding-bottom: 10px;overflow: hidden}
-#ProD .subcate .item { width: 218px;padding-left: 12px;background: url(hoa.png.ashx) no-repeat left top 7px;font: 12px/24px arial;display: block;float: left;color: #333333;margin-right: 10px}
+#ProD .subcate .item { width: 218px;padding-left: 12px;background: url(hoa.png) no-repeat left top 7px;font: 12px/24px arial;display: block;float: left;color: #333333;margin-right: 10px}
 #ProD .subcate .item:hover{ color: #8a0401;font-weight: bold}
 
 /*#thums{ margin: 0;padding: 0;list-style-type: none;border-top: 1px solid #fff;width: 261px}
@@ -82,11 +82,11 @@
 
 .zoomContainer{z-index: 999999999}
 
- .iconDown{ background: url(IconDown.png.ashx) no-repeat left center;display: inline-block;padding-left: 20px;height: 16px}
+ .iconDown{ background: url(IconDown.png) no-repeat left center;display: inline-block;padding-left: 20px;height: 16px}
  .con{display: inline-block}
  #btnBuy {margin-top: 10px}
- #btnBuy .btn{ background: url(btn.png.ashx) repeat-x;height: 32px;padding: 0px 10px;font: bold 12px/30px arial;color: #fff;border-radius: 3px;;float: left;margin-right: 10px}
- #btnBuy .btn:hover{background: url(btn-hv.png.ashx) repeat-x}
+ #btnBuy .btn{ background: url(btn.png) repeat-x;height: 32px;padding: 0px 10px;font: bold 12px/30px arial;color: #fff;border-radius: 3px;;float: left;margin-right: 10px}
+ #btnBuy .btn:hover{background: url(btn-hv.png) repeat-x}
 
  #ProD .boxInfo{ border: 1px solid #ccc;padding: 15px;display: block;margin-right: 5px}
 
@@ -108,5 +108,5 @@ ul#slider .owl-buttons .owl-next{ right: 0;width: 57px;height: 86px;background: 
 .khungThongtin .diaChi span{color: #3e3f99}
 .khungThongtin .dienThoai span{color: #dc352c}
 
-#backLink{background: url(btn.png.ashx) repeat-x;height: 32px;padding: 0px 10px;font: bold 12px/30px arial;color: #fff;border-radius: 3px;display: inline-block;margin-right: 10px;}
-#backLink:hover{background: url(btn-hv.png.ashx) repeat-x}
+#backLink{background: url(btn.png) repeat-x;height: 32px;padding: 0px 10px;font: bold 12px/30px arial;color: #fff;border-radius: 3px;display: inline-block;margin-right: 10px;}
+#backLink:hover{background: url(btn-hv.png) repeat-x}
