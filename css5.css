@@ -1,7 +1,7 @@
 ﻿#SubVideoRight { background: #fff;padding-bottom: 10px}
-#SubVideoRight .titlegr{ background: url(tt.jpg.ashx) no-repeat top center;width: 225px;height: 29px;margin-bottom: 1px}
+#SubVideoRight .titlegr{ background: url(tt.jpg) no-repeat top center;width: 225px;height: 29px;margin-bottom: 1px}
 #SubVideoRight iframe{ width: 225px;height: 159px;margin-bottom: 5px}
-#SubVideoRight .motaudio{ padding-left: 15px;width: 210px;overflow: hidden;font: 12px/24px arial;color: #380100;height: 24px;display: block;cursor: pointer;background: url(icon.png.ashx) no-repeat left center;white-space: nowrap}
+#SubVideoRight .motaudio{ padding-left: 15px;width: 210px;overflow: hidden;font: 12px/24px arial;color: #380100;height: 24px;display: block;cursor: pointer;background: url(icon.png) no-repeat left center;white-space: nowrap}
 #SubVideoRight .motaudio:hover{ background: url(iconHv.png) no-repeat left top 7px;color: #c10402}
 #SubVideoRight .actived{ background: url(iconHv.png) no-repeat left top 7px;color: #c10402}
  
