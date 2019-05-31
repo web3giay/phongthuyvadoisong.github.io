@@ -1,0 +1,183 @@
+div.ss-controls {
+	display:none
+}
+div.nav-controls {
+	float: right;
+}
+div.controls a.prev{text-indent:-9999px;width:30px;height:60px;display:inline-block;position:absolute;z-index:2;top:45%;left:3px;background: url(btnLeft.png) no-repeat;display: none}
+div.controls a.prev:hover{background:url(btnLeft-hv.png) no-repeat}
+div.controls a.next{text-indent:-9999px;width:30px;height:60px;display:inline-block;position:absolute;z-index:2;top:45%;right:6px;background:url(btnRight.png) no-repeat;display: none}
+div.controls a.next:hover{background:url(btnRight-hv.png) no-repeat}
+
+div.slideshow-container,
+div.loader,
+div.slideshow a.advance-link {
+	width: 100%; /* This should be set to be at least the width of the largest image in the slideshow with padding */
+}
+
+div.loader,
+div.slideshow a.advance-link,
+div.caption-container {
+	height: 194px; /* This should be set to be at least the height of the largest image in the slideshow with padding */	
+}
+
+div.slideshow-container {
+	position: relative;
+    z-index:1;
+	clear: both;
+	float: left;
+	height: 228px;
+    background: #fff;
+    width: 348px;
+    
+    
+    overflow: hidden;margin-bottom: 1px; 
+
+   
+   
+    
+}
+
+div.loader {
+	position: absolute;
+    z-index:1;
+	top: 0;
+	left: 0;
+	background-image: url('loader.gif');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+div.slideshow span.image-wrapper {
+	display: block;
+	 
+}
+div.slideshow a.advance-link {
+	display: block;
+	line-height: 261px; /* This should be set to be at least the height of the largest image in the slideshow with padding */
+    width:100%;
+    height:261px;
+	text-align: center;
+}
+div.slideshow a.advance-link img{border:0;max-width: 340px;max-height: 228px}
+
+div.slideshow a.advance-link:hover,
+div.slideshow a.advance-link:active,
+div.slideshow a.advance-link:visited {
+	text-decoration: none;
+}
+div.slideshow a.advance-link:focus {
+	outline: none;
+}
+div.caption-container {
+display:none
+}
+span.image-caption {
+	display: block;
+	position: absolute;
+    z-index:1;
+	top: 0;
+	left: 0;
+}
+
+div.caption-container, span.image-caption {
+	width: 423px;
+}
+
+div.caption {
+	padding: 0 12px;
+}
+
+div.photo-index {
+	position: absolute;
+    z-index:1;
+	bottom: 0;
+	left: 0;
+	padding: 0 12px;
+}
+div.navigation-container {
+	position: relative;
+    width: 100%;
+    height: 90px; overflow: hidden;
+    
+      
+}
+div.navigation {
+    width:100%
+}
+div.navigation a.pageLink {
+	display: block;
+	position: absolute;
+    z-index:2;
+    top:19px;
+    left:0;
+    width:21px;
+    height:35px;
+    opacity:0.3;
+    -moz-opacity:0.3;
+    filter:alpha(opacity=30);
+    background:url(left1.png);
+    display:none;
+}
+div.navigation a.next 
+{
+    display:none;
+    left:auto;
+    right:0;
+    background:url(right1.png)
+}
+div.navigation a.pageLink:hover{opacity:1;
+    -moz-opacity:1;
+    filter:alpha(opacity=100);}
+div.navigation a.pageLink:focus {
+	outline: none;
+}
+
+ul.thumbs {
+	position: relative;
+    z-index:1;
+	margin: 0;
+	padding: 0;
+    width: 100%;
+	
+}
+ul.thumbs li {
+	float: left;
+	padding: 0;
+    width: 64px;
+    height: 47px;
+	list-style: none;	
+	
+	margin-right:1px
+}
+a.thumb 
+{
+    width:64px;height:47px;	
+    
+}
+.selected a.thumb,
+a.thumb:hover,
+a.thumb:focus 
+{
+	outline: none;
+    
+}
+ul.thumbs img {
+	border: none;
+	display: block;
+	  width:100%;height:47px;	
+}
+div.pagination {
+	clear: both;
+	position: relative;
+    z-index:1;
+	left: -50%;
+}
+div.pagination a, div.pagination span.current, div.pagination span.ellipsis {
+	position: relative;
+    z-index:1;
+	display: block;
+	float: left;
+	margin-right: 2px;
+	padding: 4px 7px 2px 7px;
+	border: 1px solid #ccc;
+}
