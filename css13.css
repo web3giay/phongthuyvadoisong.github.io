@@ -28,7 +28,7 @@ a.hientai{padding:3px 8px; line-height:25px; margin: 0 0 0 5px; font-weight:norm
 a.trangkhac{padding:3px 8px; line-height:25px; margin: 0 0 0 5px; font-weight:normal; text-decoration:none; background:#fff; border:1px solid #b1b1b1; color:#686868;}
 
 #ProC .subcate{ margin-bottom: 23px;border-bottom: 1px dashed #cccccc;padding-bottom: 10px;overflow: hidden}
-#ProC .subcate .item { width: 218px;padding-left: 12px;background: url(hoa.png.ashx) no-repeat left top 7px;font: 12px/24px arial;display: block;float: left;color: #333333;margin-right: 10px}
+#ProC .subcate .item { width: 218px;padding-left: 12px;background: url(hoa.png) no-repeat left top 7px;font: 12px/24px arial;display: block;float: left;color: #333333;margin-right: 10px}
 #ProC .subcate .item:hover{ color: #8a0401;font-weight: bold}
 
 .countSearch{ color: #333;font: 12px arial}
