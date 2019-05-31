@@ -108,5 +108,5 @@ ul#slider .owl-buttons .owl-next{ right: 0;width: 57px;height: 86px;background: 
 .khungThongtin .diaChi span{color: #3e3f99}
 .khungThongtin .dienThoai span{color: #dc352c}
 
-#backLink{background: url(btn.png) repeat-x;height: 32px;padding: 0px 10px;font: bold 12px/30px arial;color: #fff;border-radius: 3px;display: inline-block;margin-right: 10px;}
-#backLink:hover{background: url(btn-hv.png) repeat-x}
+#backLink{background: url(btnct.png) repeat-x;height: 32px;padding: 0px 10px;font: bold 12px/30px arial;color: #fff;border-radius: 3px;display: inline-block;margin-right: 10px;}
+#backLink:hover{background: url(btn-hvct.png) repeat-x}
