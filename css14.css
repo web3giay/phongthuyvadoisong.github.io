@@ -85,8 +85,8 @@
  .iconDown{ background: url(IconDown.png) no-repeat left center;display: inline-block;padding-left: 20px;height: 16px}
  .con{display: inline-block}
  #btnBuy {margin-top: 10px}
- #btnBuy .btn{ background: url(btn.png) repeat-x;height: 32px;padding: 0px 10px;font: bold 12px/30px arial;color: #fff;border-radius: 3px;;float: left;margin-right: 10px}
- #btnBuy .btn:hover{background: url(btn-hv.png) repeat-x}
+ #btnBuy .btn{ background: url(btnct.png) repeat-x;height: 32px;padding: 0px 10px;font: bold 12px/30px arial;color: #fff;border-radius: 3px;;float: left;margin-right: 10px}
+ #btnBuy .btn:hover{background: url(btn-hvct.png) repeat-x}
 
  #ProD .boxInfo{ border: 1px solid #ccc;padding: 15px;display: block;margin-right: 5px}
 
